@@ -1,0 +1,9 @@
+ardux86/
+*~
+old/
+z80emu/
+mk_inline_code
+mk_com_boot
+collapseos-rc2014
+comboot.rom
+tmp.rom
